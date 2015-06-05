@@ -30,7 +30,7 @@ import java.util.Scanner;
 							{28, 29, 30, 31}}
 							};
 
-		// Menciptakan Scanner
+		
 		Scanner masukan = new Scanner(System.in);
 
 		for (int i = 0; i < 5; i++) 
